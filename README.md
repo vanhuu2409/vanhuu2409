@@ -2,11 +2,6 @@ I'm Van Huu a Front-end Web Developer
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-TuyenLe-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010118567054 ) 
- [![Linkedin Badge](https://img.shields.io/badge/-TuyenLe-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuyen-le-721baa200/) 
- [![initargram Badge](https://img.shields.io/badge/-@Tuyenle-e84393?style=flat&labelColor=f8a5c2&logo=instagram&logoColor=white)](https://www.instagram.com/tuyen15888/) 
- [![Mail Badge](https://img.shields.io/badge/-LeTrungTuyen-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nhoctengi158@gmail.com)
-
 - 👋 Hi, I’m @vanhuu2409.
 - 🤔 I am studying and learning more about reactjs and nextjs.
 - 📫 How to reach me: vanhuu.0924@gmail.com
