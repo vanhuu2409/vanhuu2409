@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Van Huu</h1>
 <h3 align="center">A passionate Front-end developer from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanhuu2409&label=Profile%20views&color=0e75b6&style=flat" alt="vanhuu2409" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanhuu2409" alt="vanhuu2409" /></a> </p>
-
 - 💬 Ask me about **ReactJS, NextJS, Typescript**
 
 - 📫 How to reach me **vanhuu.0924@gmail.com**
@@ -33,10 +29,6 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanhuu2409&show_icons=true&locale=en" alt="vanhuu2409" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanhuu2409&" alt="vanhuu2409" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanhuu2409&show_icons=true&locale=en&layout=compact" alt="vanhuu2409" /></p>
 
